@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function() {
     const logoImg = document.querySelector('.logo img');
     const siteName = document.querySelector('.site-name');
@@ -15,4 +14,3 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 });
-</script>
